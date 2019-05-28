@@ -15,12 +15,12 @@ PrefabInstance:
     - target: {fileID: 6640226946459866610, guid: a043f08adaa7705488f3a3c98b6ea0fd,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.5
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6640226946459866610, guid: a043f08adaa7705488f3a3c98b6ea0fd,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 6640226946459866610, guid: a043f08adaa7705488f3a3c98b6ea0fd,
         type: 3}
@@ -84,7 +84,7 @@ PrefabInstance:
     - target: {fileID: -927199367670048503, guid: 81bdf2b9fefc302439a2813124ed9dd6,
         type: 3}
       propertyPath: m_Name
-      value: Bronwyn Sound
+      value: Bronwyn complete
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: 81bdf2b9fefc302439a2813124ed9dd6,
         type: 3}
@@ -139,6 +139,41 @@ PrefabInstance:
     - target: {fileID: -4216859302048453862, guid: 81bdf2b9fefc302439a2813124ed9dd6,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -5975033157549033438, guid: 81bdf2b9fefc302439a2813124ed9dd6,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -5975033157549033438, guid: 81bdf2b9fefc302439a2813124ed9dd6,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: -5975033157549033438, guid: 81bdf2b9fefc302439a2813124ed9dd6,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: -5975033157549033438, guid: 81bdf2b9fefc302439a2813124ed9dd6,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -5975033157549033438, guid: 81bdf2b9fefc302439a2813124ed9dd6,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -5975033157549033438, guid: 81bdf2b9fefc302439a2813124ed9dd6,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: -5975033157549033438, guid: 81bdf2b9fefc302439a2813124ed9dd6,
+        type: 3}
+      propertyPath: m_LocalRotation.y
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
