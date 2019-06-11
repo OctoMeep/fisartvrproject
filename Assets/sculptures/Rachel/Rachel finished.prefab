@@ -20,12 +20,12 @@ PrefabInstance:
     - target: {fileID: 6640226946459866610, guid: a043f08adaa7705488f3a3c98b6ea0fd,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: 0.165
       objectReference: {fileID: 0}
     - target: {fileID: 6640226946459866610, guid: a043f08adaa7705488f3a3c98b6ea0fd,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: 0.564
       objectReference: {fileID: 0}
     - target: {fileID: 6640226946459866610, guid: a043f08adaa7705488f3a3c98b6ea0fd,
         type: 3}
@@ -84,7 +84,7 @@ PrefabInstance:
     - target: {fileID: -927199367670048503, guid: c262567fc4bffba4cac3b4a908394ec9,
         type: 3}
       propertyPath: m_Name
-      value: Rachel
+      value: Rachel finished
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: c262567fc4bffba4cac3b4a908394ec9,
         type: 3}
